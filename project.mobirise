@@ -31,7 +31,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "StudioDoa",
+        "title": "Studio Doa",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -185,7 +185,7 @@
     },
     "g-fotografi.html": {
       "settings": {
-        "title": "Website Generator Title",
+        "title": "Galeria e Fotografive",
         "meta_descr": "Website Generator Description"
       },
       "components": [
