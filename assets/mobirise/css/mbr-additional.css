@@ -486,6 +486,9 @@ h6,
 #social-buttons4-e .btn-social {
   color: #fff;
 }
+#social-buttons4-e .mbr-section-title {
+  font-size: 30px;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
