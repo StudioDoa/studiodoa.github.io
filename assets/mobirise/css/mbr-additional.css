@@ -479,8 +479,11 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#features1-d .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+#slider-g SPAN {
+  font-size: 48px;
+}
+#slider-g H2 {
+  font-size: 48px;
 }
 #social-buttons4-e .mbr-section-title,
 #social-buttons4-e .btn-social {
