@@ -330,7 +330,7 @@
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
-          "title": "Instagram Feed",
+          "title": "Instagram",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"1581415210429694258_4227818216\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
           "display2": "display-2",
           "display4": "display-4",
@@ -339,7 +339,13 @@
             "Extension"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-1i"
+          "_anchor": "instagram-feed-block-1i",
+          "_styles": {
+            ".inst__title": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {

@@ -505,6 +505,10 @@ h6,
   font-size: 15px;
   font-family: 'Titillium Web', sans-serif;
 }
+#instagram-feed-block-1i .inst__title {
+  color: #ffffff;
+  text-align: center;
+}
 #form1-1h .form-control-label {
   color: #a38f84;
 }
